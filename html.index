@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FIRST PROJECT</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="author" content="John Doe">
+<style>
+.container {
+  display:flex;
+}
+.column {
+  flex:1;
+  padding:5px;
+  margin:10px;
+  background-color:red;
+}
+</style>
+  </head>
+<style>
+body {
+  background-image:conic-gradient(blue 5%,green 15%,yellow 60%);
+  border-radius: 50%;
+
+}
+@media only screen and(min-width:400px) {
+  body{
+    background-image:url(snenhlanhla.jpg);
+}
+h {
+  color:blue
+  font-family:verdana
+  font-size:120%
+  
+p {
+   color:red
+   font-family:helvetica
+   font-size:120%
+}
+
+</style>
+
+<picture>
+   <source media="(min-width:150px)" srcset="snapchat-533368331.jpg">
+   <source media="(min-width:150px)" srcset="IMG_20230427_173554.jpg">
+   <img src="img_girl.jpg">
+</picture>
+
+<h1 style="background-color:blue;">DELIGHT NDLOVU FIRST PROGRAMMING PROJECT</h1>
+<p> As i hve aken the necesssary and <strong>prerequisite</strong> steps in website development <br>i have made this to 
+my first ever project and hope it all plays out well.<br>WORKING WITH THIS PROJECT HAS NOT BEEN EASY AT ALL BUT 
+but as delight ndlou many can testify that i do not like easy things 
+ </p>
+ <p id="demo">this is a demonstration</p>
+ 
+<script>
+
+function myFunction() {
+  document.getElementById(demo).innerHTML= " hello javascript";
+}
+</script>
+
+ 
+<header>
+ <h2>RISE OF PASSSION</H2>
+<p> It all stared when i developed love for computers and web pages and the functionality of these 
+wepages was so <a href="https://www.delightking.org">interested in finding</a> the ogic behind the formation of webpages</p>
+</header>
+
+<p>this is a quote from neson mandela</p>
+<blockquote cite="http://www.worldwidelife.org/who/index.html">
+the rise of a man who will grow up to be a leader <br> begins when he falls when gravity dares his elevation 
+he <br> begins to question his purpose and there thats  when he finds his true meaning and <br> his life takes  different 
+turn .I have fought against whiite domination <br> and i have fought against black domination for my frrredom
+and i intend to secure my freeedom to the end of days</blockquote>
+<p>the goal is to <q>buld responsive websites and as time goes by might be able to</q><p>
+<a href="mailto:delightkig03@gmail.com">send email</a>
+
+
+
+<pre>
+delight is the king
+delight is the king
+delight is the king
+delight is the king
+</pre>
+<p>&lt</p>
+&spades;
+ <style>
+   table,th,td{
+     border:1px solid black;
+	 border-collapse:collapse
+	 border-style:dotted
+	 border-color:pink
+	
+   }
+   th,td{
+     padding:10px
+	 text-align:left
+</style>
+     
+<table>
+ <caption>Familia</caption>
+  <tr>
+    <th style="width:20%">grandma</th>
+	<th>mother</th>
+	<th style="width:20%"> <a href="https://delightkingking.org">uncle</a></th>
+  </tr>
+  <tr>
+     <td>Magret</td>
+	 <td>Senzo</td>
+	 <td>PHETHE</td>
+  </tr>	 
+</table>
+<table>
+ <colgroup>
+   <col span="3" style="background-color:red">
+ </colgroup>
+ <caption>Example</caption>
+  <tr>
+    <th></th>
+	<th rowspan="2">monday</th>
+	<th>tuesday</th>
+	<th>wednes</th>
+  </tr>
+    <td>8:00</td>
+	<td></td>
+	<td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td>18:00</td>
+	<td></td>
+	<td></td>
+	<td></td>
+  </tr>
+<ul>
+  <li>coffee</li>
+  <li>tea</li>
+  <li>milk</li>
+    <ul>
+	  <li>black coffee</li>
+	  <li>black tea</li>
+	</ul>
+   <li>honey</li>
+</ul>
+<ul style="list-style-type:square;">
+  <li>coffee</li>
+  <li>milk</li>
+  <li>tea</li>
+</ul>
+<ol type="a">
+  <li>king</li>
+  <li>king</li>
+</ol>
+<dl>
+  <dt>coffee</dt>
+  <dd>black coffee</dd>
+</dl>  
+<div>
+   <h1>i am delight king</h1>
+   <p>she is not special</p>
+   <p>and i repeat she is not special</p>
+</div>
+<iframe src="https://pathfinder.w3schools.com" height="200" width="200" title="iframe exampe">ddddd</iframe>
+<script>
+document.getElementById("c2").innerHTML = "HELLO JAVASCRIPT";
+</script>
+
+<figure>
+<img src="../desktop/IMG-20220209-WA0004.jpg" alt="mountain">
+<figcaption>njanji namano</figcaption>
+</figure>
+
+<p>my family has awlays believed that i will grow up to be a goat hence i dare not disappoint them</p>
+
+<aside>
+<p>save the document by pressing<kbd> ctrl + s</kbd></p>
+<p>message from my computer:</p>
+<p><samp>File not found.<br> press f1 to reload</samp></p>
+<p>the area of a triangle is 1/2 x <var>b</var> x <var>h</var> where <var>b</var> = breath and <var>h</var> = height</p>
+</aside>
+<div class="container">
+  <div class="column">column 1</div>
+  <div class="column">column2</div>
+  <div class="column">column3<p>gvjccvkjdwn j,mk.n .m <br>gg<a href="www.w3schools.com">hdcu</a>gr<br></p></div>
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<address>wriiten <br>by delight <br>128 hillbrow <br>johannesburg<br> south africa</address>
+
+<footer>
+<p>this is a footer</p>
+<p>written by delight</p>
+</footer>
+<p>1>2</p>
+<form action"/delightking03@gmail.com" target="_blank" method="post" name+contactinfp">
+  <label for="fname">First name</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name</label><br>
+  <input type="text" id="lname" name="lname"><br>
+  <input type="submit" value="Submit">
+</form>
+<p>Choose your favorite web language</p>
+<form>
+  <fieldset>
+  <legend>personalia</legend>
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JAVASCRIPT">
+  <label for="javascript">JAVASCRIPT</label><br>
+  </fieldset>
+</form>
+<label for="cars">Choose a car</label><br>
+  <select id="cars" name="cars">
+  <option value="honda">honda</option>
+  <option value="toyota">toyota</option>
+  </select><br>
+  <textarea name="message" rows="10" cols="30">
+    this is a message
+  </textarea><br>
+  
+<form>
+  <label for="username">Username</label>
+  <input type="text" id="username"<br>
+  <label for="pwd">Password</label>
+  <input type="password" id="password">
+</form>
+  
+
+
+</body>
+</html>
